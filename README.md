@@ -4,9 +4,9 @@ A graceful, personalized React + Tailwind CSS experience to help users discover 
 
 ### Preview
 
-![App Preview](public/preview-desktop.png)
+![public/preview-desktop.png](https://github.com/yugalkaushik/bella-oter-test/blob/main/public/Preview-desktop.png)
 
-![App Preview](public/preview-mobile.png)
+![App Preview](https://github.com/yugalkaushik/bella-oter-test/blob/main/public/Preview-mobile.png)
 
 ## Features
 
