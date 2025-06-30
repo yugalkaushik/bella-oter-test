@@ -4,9 +4,9 @@ A graceful, personalized React + Tailwind CSS experience to help users discover 
 
 ### Preview
 
-<img src="public/preview-desktop.png" alt="App Preview" width="700" />
+![App Preview](public/preview-desktop.png)
 
-<img src="public/preview-mobile.png" alt="App Preview" height="700" />
+![App Preview](public/preview-mobile.png)
 
 ## Features
 
